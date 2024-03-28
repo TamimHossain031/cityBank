@@ -13,7 +13,7 @@ export default {
       },
 
       fontFamily:{
-        'sans':'Arial,Verdana,sans-serif'
+        'custom':["Montserrat", 'sans-serif']
       }
     },
   },
